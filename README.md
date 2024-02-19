@@ -79,7 +79,7 @@ I'm Xeno Suter, a passionate Software Developer with a love for coding and probl
 
 ### GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xeno-suter&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=xeno-suter\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ### Let's Connect
